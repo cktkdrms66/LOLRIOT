@@ -1,0 +1,2 @@
+rootProject.name='LOLApplication'
+include ':app'

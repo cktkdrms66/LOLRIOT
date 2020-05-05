@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LOLApplication</string>
+    <string name="home">홈</string>
+    <string name="information">유저 정보</string>
+    <string name="setting">설정</string>
+    <string name="community">커뮤니티</string>
+    <string name="win_and_lose">%s승 %s패 %s%%</string>
+    <string name="tier_and_rank">%s %s</string>
+    <string name="kda">%s/%s/%s</string>
+</resources>
